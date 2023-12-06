@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LivinLaDolceVita
 - 👀 I’m interested in:  Cooking, Games, Music
-- 🌱 I’m currently learning:  C#
+- 🌱 I’m currently learning:  Cobol
+-  Techs im comfortable with: C#, .NET, HTML, CSS, JavaScipt, Azure Cloud, GCP, SQL, MongoDB
 
 
 <!---
